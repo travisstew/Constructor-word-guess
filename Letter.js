@@ -3,7 +3,7 @@ function Letter(char){
   this.guessed = false;
   
   this.returnChar = function () {
-        if(guessed){
+        if(this.guessed){
           return this.char;
         }else{
           return ('_');
