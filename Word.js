@@ -28,8 +28,10 @@ function Word(word){
 
 
 // var dog = new Word('dog will be dogs');
-// dog.checkLetter('o');
-// dog.returnWord();
+// // dog.checkLetter('o');
+// // dog.returnWord();
+// console.log(dog.word.search);
+
 
 
 
